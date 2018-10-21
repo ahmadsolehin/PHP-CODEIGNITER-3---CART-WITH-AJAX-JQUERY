@@ -13,4 +13,4 @@ for a given task.
 ##Screenshot
 
 
-<img width="1440" alt="screen shot 2018-10-22 at 1 14 30 am" src="https://user-images.githubusercontent.com/12325386/47270001-ff038980-d597-11e8-9abf-ad3c2a2cc9ca.png">
+https://user-images.githubusercontent.com/12325386/47270001-ff038980-d597-11e8-9abf-ad3c2a2cc9ca.png
